@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "bookly_jwtPrivateKey",
+  "db": "bookly_db"
+}
